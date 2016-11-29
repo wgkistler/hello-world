@@ -1,5 +1,5 @@
 # hello-world
-Just a simple test repository - to understand local &amp; online repositories
+Just a simple test repository - to understand local and online repositories
 
 /*
  * Just adding some text - would like to get the opencv CannyDetector demo 
